@@ -93,3 +93,14 @@ Press the number against the contact to delete it: 1
 Jim Carrey's contact deleted from list!
 ```
 ---
+
+Kindly DO NOT create the program in a single `Main` class. Try out some Object-Oriented Programming and
+use your skills from your software engineering classes as well.
+
+Steps to attempt this assignment:
+1. Fork this repository.
+2. Clone the repository you forked to your computer.
+3. Write code and commit it.
+4. Push the code back to your fork.
+
+Please feel free to reach out to me in case of any queries.
