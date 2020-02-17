@@ -65,3 +65,21 @@ they should always be alphabetically ordered on the basis of the first name.
 the number field as `Number` only. If the `Person` has multiple contacts, then it
 should show `Number(s)`.
 --- 
+
+The `search for a contact menu`
+```
+You could search for a contact from their first names: 
+Jim
+1 match found!
+-------- * -------- * -------- * --------
+First Name: Jim
+Last Name: Carrey
+Contact Number(s): 1547852369, 1452879632
+Email address: jim@ace.ventura
+-------- * -------- * -------- * --------
+```
+Information about the above menu
+1. There can be multiple `Person` objects with the same name, in such a case, 
+show all the matches.
+2. If nothing is found, print `NO RESULTS FOUND!`
+---
