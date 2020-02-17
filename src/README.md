@@ -42,3 +42,26 @@ public class Person {
 }
 ```
 ---
+The `view all contacts menu`
+```
+---Here are all your contacts---
+-------- * -------- * -------- * --------
+First Name: Jim
+Last Name: Carrey
+Contact Number(s): 1547852369, 1452879632
+Email address: jim@ace.ventura
+-------- * -------- * -------- * --------
+-------- * -------- * -------- * --------
+First Name: Robin
+Last Name: Williams
+Contact Number: 7845985632
+Email address: robin@blue.genie
+-------- * -------- * -------- * --------
+```
+Information about the `view all contacts menu`
+1. No matter how the user adds the contacts in the list,
+they should always be alphabetically ordered on the basis of the first name.
+2. If the `Person` has only one contact number, then the contact card should show
+the number field as `Number` only. If the `Person` has multiple contacts, then it
+should show `Number(s)`.
+--- 
