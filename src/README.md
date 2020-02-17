@@ -29,3 +29,16 @@ Would you like to add another contact number? (y/n): n
 Would you like to add email address? (y/n): y
 Email Address: divyansh.bhardwaj@gla.ac.in
 ```
+Information about the 'add a contact menu'
+1. This program will store this `Person` as a type (you have to create a Person class).
+That means this program uses a list of `Persons`.
+
+```java
+public class Person {
+    // a field to store the first name
+    // a field to store the last name
+    // a list to store multiple contact numbers (i.e a list of numbers)
+    // a field to store the email address of the person 
+}
+```
+---
