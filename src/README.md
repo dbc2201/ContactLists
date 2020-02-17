@@ -83,3 +83,13 @@ Information about the above menu
 show all the matches.
 2. If nothing is found, print `NO RESULTS FOUND!`
 ---
+
+The `delete a contact menu`
+```
+Here are all your contacts: 
+1. Jim Carrey
+2. Robin Williams
+Press the number against the contact to delete it: 1
+Jim Carrey's contact deleted from list!
+```
+---
